@@ -38,4 +38,3 @@ if (is_multisite()){
 	//include_once plugin_dir_path( __FILE__ ) . "rmu_reset-theme.php";
 	//include_once plugin_dir_path( __FILE__ ) . "rmu_reset-permalink.php";
   }
-}
